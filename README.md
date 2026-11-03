@@ -1,1 +1,1 @@
-![Vaidotas Petraitis — Software Engineer, .NET & Applied AI](./vaidotas-petraitis-banner.png)
+![Vaidotas Petraitis — Software Engineer, .NET & Applied AI](./banner.png)
